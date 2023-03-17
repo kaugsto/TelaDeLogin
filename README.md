@@ -8,4 +8,4 @@ Tela criada utilizando conceitos de responsividade e feito também algumas valid
 Projeto em andamento.
 
 
-Projeto: https://tela-de-login-eosin.vercel.app/
+https://tela-de-login-eosin.vercel.app/
